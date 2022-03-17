@@ -1,7 +1,4 @@
-### Hi there 👋
-
-- 🔭 I’m currently working on Laravel and Vue JS
-- 🌱 I’m currently learning web scraping using Python
+![Metrics](/github-metrics.svg)
 
 <!--
 **lrencallado/lrencallado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
